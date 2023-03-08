@@ -1,11 +1,20 @@
+
 import subprocess
 import re
 from termcolor import cprint
 
+welcome = """
+|||||             ~ Average Ping ~            |||||
+ ||||          Coded By : AmirTyper           ||||
+  |||        My Instagram : @amir_typer       |||
+   ||       https://github.com/AmirTyper      ||
+    |                    V1                   |
+"""
+print(welcome)
+
 x = input("Write the Domain or IP: ")
 
 print("Testing...")
-
 try:
     output = subprocess.check_output("ping "+ x, shell = False, universal_newlines=True).splitlines()
     for i in output:
