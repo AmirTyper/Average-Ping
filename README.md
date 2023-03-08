@@ -6,8 +6,7 @@ A simple script to get the average ms when you are pinging a host.
 <br />
 
 # How to use:
-<pre><code>
-git clone https://github.com/AmirTyper/Average-Ping
+<pre><code>git clone https://github.com/AmirTyper/Average-Ping
 cd Average-Ping
 pip install -r requirements.txt
 python ping.py
