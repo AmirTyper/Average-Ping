@@ -1,6 +1,10 @@
 # Average-Ping
 A simple script to get the average ms when you are pinging a host.
 
+<br />
+<img src="img.png" />
+<br />
+
 # How to use:
 <pre><code>
 git clone https://github.com/AmirTyper/Average-Ping
