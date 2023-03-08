@@ -2,7 +2,13 @@ import subprocess
 import re
 from termcolor import cprint
 import colorama
+import os
 colorama.init()
+
+if os.name == 'nt':
+    os.system("cls")
+else:
+    os.system("clear")
 
 welcome = """
 |||||             ~ Average Ping ~            |||||
