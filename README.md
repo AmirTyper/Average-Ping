@@ -10,7 +10,7 @@ python ping.py
 </code></pre>
 
 # Support me
-The easiest way to support me is to click on the star (<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji>) at the top of <a href="https://github.com/AmirTyper/Video-Editor">GitHub page</a>.
+The easiest way to support me is to click on the star (<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji>) at the top of <a href="https://github.com/AmirTyper/Average-Ping">GitHub page</a>.
 
 # Contact me
 <pre><code>Developer's Telegram: <a href="https://t.me/Mr_Amir_Typer">Mr_Amir_Typer</a>
