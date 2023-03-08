@@ -1,7 +1,8 @@
-
 import subprocess
 import re
 from termcolor import cprint
+import colorama
+colorama.init()
 
 welcome = """
 |||||             ~ Average Ping ~            |||||
@@ -26,5 +27,3 @@ try:
             cprint("Average ms: {0}".format(var2),"green")
 except:
     cprint("Error!","red")
-
-
